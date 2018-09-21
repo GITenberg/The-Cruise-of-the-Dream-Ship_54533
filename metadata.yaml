@@ -1,0 +1,26 @@
+_repo: The-Cruise-of-the-Dream-Ship_54533
+_version: 0.0.1
+contributor:
+  illustrators:
+  - &id001
+    agent_name: Stock, Ralph
+    gutenberg_agent_id: '47914'
+    url: http://www.gutenberg.org/2009/agents/47914
+  - agent_name: Hunt, Lynn Bogue
+    gutenberg_agent_id: '47915'
+    url: http://www.gutenberg.org/2009/agents/47915
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2017-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cruise of the Dream Ship
+url: http://www.gutenberg.org/ebooks/54533
