@@ -9,9 +9,14 @@ contributor:
   - agent_name: Hunt, Lynn Bogue
     gutenberg_agent_id: '47915'
     url: http://www.gutenberg.org/2009/agents/47915
+covers:
+- cover_type: archival
+  image_path: 54533-h/images/img-cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54533#The-Cruise-of-the-Dream-Ship
 gutenberg_issued: '2017-04-10'
 gutenberg_type: Text
 identifiers:
